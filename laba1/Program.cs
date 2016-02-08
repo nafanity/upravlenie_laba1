@@ -130,6 +130,7 @@ namespace лаба10_прога
             static void Main(string[] args)
             {
                 Console.WriteLine("Worked!");
+                Console.WriteLine("Start!");
                 Console.ReadLine();
             }
         }
