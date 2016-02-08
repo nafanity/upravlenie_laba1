@@ -131,6 +131,7 @@ namespace лаба10_прога
             {
                 Console.WriteLine("Worked!");
                 Console.WriteLine("Start!");
+				Console.WriteLine("Start v2!");
                 Console.ReadLine();
             }
         }
