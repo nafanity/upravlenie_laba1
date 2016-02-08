@@ -1,0 +1,5 @@
+C:\Users\Olya\Documents\GitHub\upravlenie_laba1\laba1\bin\Debug\laba1.exe
+C:\Users\Olya\Documents\GitHub\upravlenie_laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\Olya\Documents\GitHub\upravlenie_laba1\laba1\obj\x86\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\Olya\Documents\GitHub\upravlenie_laba1\laba1\obj\x86\Debug\laba1.exe
+C:\Users\Olya\Documents\GitHub\upravlenie_laba1\laba1\obj\x86\Debug\laba1.pdb

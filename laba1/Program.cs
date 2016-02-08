@@ -17,6 +17,7 @@ namespace лаба10_прога
             public Bibliotekar UnspecifiedType3;
             public bool Find()
             {
+                Console.WriteLine("Klient was finded!");
                 return true;
             }
         }
